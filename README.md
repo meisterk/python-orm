@@ -5,4 +5,5 @@
 * table-per-class
 
 DB: SQLite
+
 ORM: SQLAlchemy
